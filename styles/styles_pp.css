@@ -1,0 +1,52 @@
+body {
+	margin: 40px 40px 40px 40px;
+}
+
+a:link {
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited {
+	color:blue;
+}
+
+a:hover {
+	color: #ff0000;
+}
+a:active {
+	color: #00ff00;
+}
+.bold {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.completed1 {
+	text-decoration:line-through;
+	}
+
+.mainheading {
+	background: blue;
+	color: white;
+	text-align: center;
+	font-size: 120%;
+
+
+}
+ .nav1 li {
+display: inline;
+margin-right: 10px;
+color: white;
+
+
+
+
+ }
+
+.nav1{
+ 	background-color: yellow;
+ 	font-size: 120%;
+ }
+
+
